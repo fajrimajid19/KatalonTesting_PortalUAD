@@ -21,11 +21,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://portal.uad.ac.id/login')
 
+WebUI.delay(2)
+
+WebUI.takeFullPageScreenshot()
+
 WebUI.setText(findTestObject('Object Repository/Page_Login Portal  Portal Akademik/input_Username_login'), '1800018300')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Portal  Portal Akademik/input_Password_password'), '+6rFExLOzA3XjDxirDKaeQ==')
 
+WebUI.delay(2)
+
+WebUI.takeFullPageScreenshot()
+
 WebUI.click(findTestObject('Object Repository/Page_Login Portal  Portal Akademik/button_Login'))
+
+WebUI.delay(2)
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Page_Selamat Datang di Portal Akademik Univ_c64131/a_Wifi Mahasiswa'))
 
@@ -34,13 +46,25 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Akun Wifi Mahasisw
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Akun Wifi Mahasiswa  Portal Akademik/input__re_password'), 
     '+6rFExLOzA3XjDxirDKaeQ==')
 
+WebUI.delay(2)
+
+WebUI.takeFullPageScreenshot()
+
 WebUI.click(findTestObject('Object Repository/Page_Akun Wifi Mahasiswa  Portal Akademik/button_Ganti Password'))
+
+WebUI.delay(2)
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Page_Akun Wifi Mahasiswa  Portal Akademik/img_view all_img-circle'))
 
 WebUI.click(findTestObject('Object Repository/Page_Akun Wifi Mahasiswa  Portal Akademik/a_Log Out'))
 
 WebUI.click(findTestObject('Object Repository/Page_Selamat Datang di Portal Akademik Univ_c64131/button_OK'))
+
+WebUI.delay(2)
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.closeBrowser()
 
