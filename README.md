@@ -1,1 +1,1 @@
-# KatalonTesting_PortalUAD
+# KatalonStudioTesting_PortalUAD
