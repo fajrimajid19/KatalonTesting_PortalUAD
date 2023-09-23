@@ -1,4 +1,4 @@
-# KatalonStudioTesting_PortalUAD
+# KatalonStudioTesting_PortalUAD (https://portal.uad.ac.id)
 -Test Case
 -Regression
 -Automation dengan Cross Browser
