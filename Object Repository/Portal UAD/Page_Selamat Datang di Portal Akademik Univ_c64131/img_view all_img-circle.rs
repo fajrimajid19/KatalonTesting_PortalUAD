@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_view all_img-circle</name>
+   <tag></tag>
+   <elementGuidId>3f264419-b5de-46d2-9398-94e7b15e99bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://portal.uad.ac.id/avatar/m.jpeg')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ff3add9d-c434-45a8-ab6f-37721302dbdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-circle</value>
+      <webElementGuid>f6030bb5-10b2-4fc8-acde-659688cce395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://portal.uad.ac.id/avatar/m.jpeg</value>
+      <webElementGuid>506d329c-2cac-451e-8e17-74ae6470936e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-md page-header-menu-fixed&quot;]/div[@class=&quot;page-header&quot;]/div[@class=&quot;page-header-top&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;top-menu&quot;]/ul[@class=&quot;nav navbar-nav pull-right&quot;]/li[@class=&quot;dropdown dropdown-user dropdown-dark&quot;]/a[@class=&quot;dropdown-toggle&quot;]/img[@class=&quot;img-circle&quot;]</value>
+      <webElementGuid>8342645b-5549-453e-9fb7-7ff5ee9e624e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://portal.uad.ac.id/avatar/m.jpeg')]</value>
+      <webElementGuid>6d8c4c23-4ecd-422e-be00-08b480145e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/img</value>
+      <webElementGuid>acecd861-b80b-42bd-9bb1-39c7035d0237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://portal.uad.ac.id/avatar/m.jpeg']</value>
+      <webElementGuid>f9548b53-5b2b-4dff-bc5d-efc373602fd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

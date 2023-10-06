@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Kemahasiswaan</name>
    <tag></tag>
-   <elementGuidId>4e6e5c18-62bd-49e6-be04-644e3d0ae30e</elementGuidId>
+   <elementGuidId>607bf094-b2d5-4e5e-81fc-6224eeda93ed</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>li.menu-dropdown.classic-menu-dropdown.open > a.hover-initialized</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Kemahasiswaan')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1494e3fe-ed7f-4d4e-a3a5-259850fb7f40</webElementGuid>
+      <webElementGuid>4faf3736-db4e-47a6-ba2b-056782e8a163</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>data-hover</name>
       <type>Main</type>
       <value>megamenu-dropdown</value>
-      <webElementGuid>12176f93-7208-4f60-b050-61bffc3a9d7e</webElementGuid>
+      <webElementGuid>3c36f8b7-2058-4853-8d6b-e3b90daae30e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-close-others</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>468d3f78-3a3b-494c-afea-dbcd86bb88de</webElementGuid>
+      <webElementGuid>37fbbd56-9f99-4537-98b0-fd4ad3971dba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>f6a6f699-b9b5-4000-bc7d-5594ecd359f0</webElementGuid>
+      <webElementGuid>857bf263-bd82-4d18-96b0-92ddb531f949</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://portal.uad.ac.id/</value>
-      <webElementGuid>be54437d-bc65-4072-b281-2ad86dc009d5</webElementGuid>
+      <webElementGuid>3724f393-8d33-43a3-84cf-3f353bcbf579</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hover-initialized</value>
-      <webElementGuid>fda28c08-58de-421a-98d6-1c88c04c383e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-expanded</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>2453dfa9-165a-424f-96bd-dbda471d63a3</webElementGuid>
+      <webElementGuid>67ce2b97-435e-4e32-9a88-c57a8a36ed92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -80,15 +72,15 @@
       <value>
 									Kemahasiswaan 
 									</value>
-      <webElementGuid>15718cce-158f-44a7-bd70-953092997cd7</webElementGuid>
+      <webElementGuid>3edd789f-8bf1-4259-9b41-9c7e6102dfdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;page-md page-header-menu-fixed&quot;]/div[@class=&quot;page-header&quot;]/div[@class=&quot;page-header-menu&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;hor-menu&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;menu-dropdown classic-menu-dropdown open&quot;]/a[@class=&quot;hover-initialized&quot;]</value>
-      <webElementGuid>ffd57a4b-eed7-4767-9ff7-e8fb6bd7a830</webElementGuid>
+      <value>/html[1]/body[@class=&quot;page-md page-header-menu-fixed&quot;]/div[@class=&quot;page-header&quot;]/div[@class=&quot;page-header-menu&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;hor-menu&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;menu-dropdown classic-menu-dropdown&quot;]/a[@class=&quot;hover-initialized&quot;]</value>
+      <webElementGuid>389318d6-f6d3-4f67-bbf3-e417a7fbf24e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -96,7 +88,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Kemahasiswaan')]</value>
-      <webElementGuid>8577d7e3-eb3c-4dbd-8226-174d3d259082</webElementGuid>
+      <webElementGuid>e74b8033-1144-471a-a7a0-857f01320995</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Kemahasiswaan']/parent::*</value>
-      <webElementGuid>1955c913-2207-485c-b94a-13cbf3d49f95</webElementGuid>
+      <webElementGuid>cf11effb-372c-4649-9f9a-5088daeb19c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +104,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://portal.uad.ac.id/')])[26]</value>
-      <webElementGuid>2e6eeff1-808e-4124-b5bc-919b82b04eef</webElementGuid>
+      <webElementGuid>30872712-a18a-418d-bfbc-22fd9155c614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>44379284-7a2c-40cf-a2fb-97875a4764ba</webElementGuid>
+      <webElementGuid>5bf50122-b1e4-4364-8d46-fd002def670f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,6 +124,6 @@
 									' or . = '
 									Kemahasiswaan 
 									')]</value>
-      <webElementGuid>d246896d-306d-4c3c-8e85-b7d65e5af479</webElementGuid>
+      <webElementGuid>2670c206-a9ea-4ba1-894e-a929486ff82f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

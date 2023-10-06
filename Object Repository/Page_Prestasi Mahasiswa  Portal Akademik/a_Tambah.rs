@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Tambah</name>
    <tag></tag>
-   <elementGuidId>47780552-b737-4395-a5dd-190807659c59</elementGuidId>
+   <elementGuidId>271a5293-0040-4859-aed1-f9eafcb0aa6f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>a.btn.btn-primary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Tambah')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>804479f5-44b7-43f0-860a-d2ac58c7b333</webElementGuid>
+      <webElementGuid>c639ec53-6042-45b2-a10d-2d2b28f78c50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>2be6cb62-a50d-4e3d-8e62-ea7d496f26a6</webElementGuid>
+      <webElementGuid>410ed037-0360-4ddf-89bc-2a54b25b638a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://portal.uad.ac.id/prestasi/Prestasi/add/</value>
-      <webElementGuid>4758fa06-de03-4ba5-9a13-4fb3b57e3139</webElementGuid>
+      <webElementGuid>490f414a-24ec-47d6-8f68-b2916a081e7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
    Tambah
    
 </value>
-      <webElementGuid>efb1545c-9f71-4efe-8215-87636c4f0e34</webElementGuid>
+      <webElementGuid>3173c487-d29f-42d2-8844-541bd1687a26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;page-md page-header-menu-fixed&quot;]/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;portlet light&quot;]/div[@class=&quot;portlet-body&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>6f708f05-edee-4138-b8e8-5fc607fbd414</webElementGuid>
+      <webElementGuid>67e63977-dfde-42d6-9ceb-7d0a32610041</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Tambah')]</value>
-      <webElementGuid>da717217-4e07-4b94-b83e-9d2652cdfccb</webElementGuid>
+      <webElementGuid>3a911a98-e2b8-47e0-814f-94ceb58cf043</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan:'])[1]/following::a[1]</value>
-      <webElementGuid>7faaa8e6-9efb-4eb1-8b11-ef723779d0bb</webElementGuid>
+      <webElementGuid>1a5ced53-3651-4021-967a-b4ea008b6313</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prestasi Mahasiswa'])[3]/following::a[1]</value>
-      <webElementGuid>0a937b87-0bab-4dd8-a8d8-43c8dab46439</webElementGuid>
+      <webElementGuid>2d95f76e-d3b3-44f6-ac6c-34e3cf8e20bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::a[1]</value>
-      <webElementGuid>179cdf8a-4608-4769-a6e4-96f3b6fc2d7a</webElementGuid>
+      <webElementGuid>d9badb69-ebe4-4282-ba29-66a876c05775</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Even'])[1]/preceding::a[1]</value>
-      <webElementGuid>c75d37bb-fdad-4772-8500-86428d288af4</webElementGuid>
+      <webElementGuid>f19fb01f-173a-4d7f-9753-815626955bbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tambah']/parent::*</value>
-      <webElementGuid>f129c6a3-b7ff-4cb6-9d91-9347fb5d7073</webElementGuid>
+      <webElementGuid>941cadf0-e5b4-41c2-a323-77294b2b4f54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://portal.uad.ac.id/prestasi/Prestasi/add/')]</value>
-      <webElementGuid>2a5c8f5f-c6c8-463e-b9f5-a256449259c4</webElementGuid>
+      <webElementGuid>72cabc7e-c700-45aa-8af1-1e13327b77ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/a</value>
-      <webElementGuid>a5b3e8a0-82d0-412d-8d02-6e24dfadfe0c</webElementGuid>
+      <webElementGuid>721c0761-9d70-40f1-be67-c1e03e264e1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
    Tambah
    
 ')]</value>
-      <webElementGuid>9e7377bc-cd7f-4eb1-af63-2b0a7799b268</webElementGuid>
+      <webElementGuid>368bc45b-a59c-4156-8c9a-f27e0afd3b44</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
